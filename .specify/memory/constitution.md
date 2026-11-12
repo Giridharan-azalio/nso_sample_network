@@ -73,7 +73,7 @@ To ensure automated configuration succeeds across heterogeneous hardware and vir
 ## Development Workflow & Contribution Governance
 
 ### Contribution Conventions
-- **PR Title Format**: `[sample-folder] <Short description>` (e.g., `[RESTCONF] support NSO device targeting`).
+- **PR Title Format**: `[sample-folder] <Short description>` (e.g., `[NC-get-config] support NSO device targeting`).
 - **Scope**: Keep changes localized to the relevant sample directory or core module.
 - **Review Gates**:
   1. Offline unit/mock tests pass.
